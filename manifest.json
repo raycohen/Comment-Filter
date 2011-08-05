@@ -9,10 +9,7 @@
     "default_icon" : "images/icon-19x19.png",
     "default_title" : "Warning: Comments on this page!"
   },
-  "permissions": [
-    "tabs",
-    "unlimitedStorage"
-	],
+  "permissions": [],
   "content_scripts": [
     { 
       "exclude_globs": [
