@@ -12,7 +12,9 @@ function filterComments() {
   $('iframe.comments').remove();
 
   $('iframe[src^="http://www.facebook.com/plugins/comments.php"]').remove();
-  $('iframe[src^="https://www.facebook.com/plugins/comments.php"]').remove();  
+  $('iframe[src^="https://www.facebook.com/plugins/comments.php"]').remove();
+  
+  $('script[src^="http://intensedebate.com/comment"]').parent().remove();
 }
 
 filterComments();
