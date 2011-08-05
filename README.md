@@ -25,6 +25,7 @@ Coming Soon
 
 Installation (for Users)
 --------------------------
+**coming soon**
 
 Just install the extension from the Chrome Web Store!
 
