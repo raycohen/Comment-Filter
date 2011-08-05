@@ -15,6 +15,8 @@ function filterComments() {
   $('iframe[src^="https://www.facebook.com/plugins/comments.php"]').remove();
   
   $('script[src^="http://intensedebate.com/comment"]').parent().remove();
+  
+  $('.sl-echo-comments').remove();
 }
 
 filterComments();
