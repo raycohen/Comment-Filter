@@ -1,36 +1,27 @@
-Jeter Filter
+Comment Filter
 ================================
-A Chrome extension that removes Derek Jeter from the Internet.
+A Chrome extension that removes comments from the Internet.
 
 
 Overview
 --------------------------
-Each day, millions of people all around the world browse the Internet at terrible risk to their emotional and psychological well being.  In this
-brave new world of the twenty-four news cycle, the ubiquitous usage of URI shorteners, and the virulence of content sharing, never has there been
-a more dangerous period for the average Internet user than right now.  At any second, a wrong click can send a hapless victim to pages containing horrific
-exposure to the most disgusting, most vile, most gag-reflexive content imaginable from the black hearts of sick and twisted men.
+A growing number of websites allow users to leave comments on their articles, videos, and other content.  While the intent may have initially been noble, to foster discussion and community, the results are in and they are pretty ugly.
 
-I am speaking, of course, about content with Derek Jeter.
+Comment-prone internet denizens have taken to abusing this system. Finding a thread of comments that is not festering with logical fallacies, incorrect information, oversimplified analysis of complex issues, misspellings, poor grammar, and just generally dumb shit is nearly impossible.  Each time an optimistic young browser (such as yourself) gets to that special part of the page below the actual content, groans, muttered swears, and a feeling of disappointment with the world are not far off. 
 
-The Jeter Filter is a Chrome extension that removes Derek Jeter from the Internet, thus ending this long national nightmare.  With this extension,
-you can enjoy a safe browsing experience with active search and removal of Derek Jeter on the pages you visit.  You can adjust the Jeter Filter to
-the setting that fits your lifestyle, choosing between "Mild," "Aggressive," and the safest, most popular "Vindictive."  Further, all sites found to
-contain Jeter while you are using the Jeter Filter are anonymously logged to FluidInfo, making it easier for developers on other platforms to add 
-Jeter filtering to their experiences.
-
-This means the more you browse with the Jeter Filter, the easier it becomes for the world to filter more Jeter.
-
-And the easier it becomes for the world to filter out Derek Jeter, the better we are all for living it.  
+Enter the comment filter.  A simple chrome extension that does its best to remove comments from the pages you browse **before** they can do damage.
 
 
 Features
 --------------------------
 
-* Detects instances of Derek Jeter on web pages, warning users of the horror they may contain.
-* Attempts to identify semantically sections of the page likely to contain Derek Jeter and removes them from the page.
-* Sensitivity settings to customize the aggressiveness of the filter - remove single references, chunks or the entire page.
-* Anonymously logs URIs containing Derek Jeter on FluidInfo in an effort to make filtering Derek Jeter easier for app developers worldwide.
+* Detects and removes widely used comment plugins, including those created by Disqus and Facebook.
+* Attempts to identify and remove sections of the page likely to contain comments.
 
+Coming Soon
+--------------------------
+* Sensitivity settings 
+* White list for sites not to clean
 
 Installation (for Users)
 --------------------------
@@ -42,13 +33,13 @@ Then surf the web, comforted by the protection you are now afforded.
 
 Installation (for Developers)
 -------------------------
-Want to hack on the Jeter Filter?  Sweet!
+Want to hack on the Comment Filter?  Sweet!
 
 Here's a howto to get the source of the Chrome Extension running in your environment.
 
 1) Grab latest source
 <pre>
-git clone git@github.com:RobSpectre/Jeter-Filter.git
+git clone git@github.com:raycohen/Comment-Filter.git
 </pre>
 
 2) Enable Chrome Extension in your Chrome install
@@ -57,7 +48,7 @@ Open Chrome.
 Navigate to Settings... Tools... Extensions.
 Click + on "Developer mode"
 Click "Load unpacked extensions..."
-Navigate to directory you installed Jeter Filter and click Open.
+Navigate to directory you installed Comment Filter and click Open.
 Chuckle to self as you reload this page and significant chunks of it suddenly disappear.
 </pre>
 
@@ -66,4 +57,4 @@ Chuckle to self as you reload this page and significant chunks of it suddenly di
 
 About
 -------------------------
-This work is licensed under GPLv3.  Created by Rob Spectre.  Lovingly crafted in Brooklyn, NY.
+This work is licensed under GPLv3.  Created by Rob Spectre initially for the "Jeter Filter", and molded into something immensely more useful by Raymond Cohen.
