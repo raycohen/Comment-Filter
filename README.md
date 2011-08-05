@@ -18,6 +18,12 @@ Features
 * Detects and removes widely used comment plugins, including those created by Facebook, Disqus, IntenseDebate and Echo.
 * Attempts to identify and remove sections of the page likely to contain comments.
 
+Try It Out
+--------------------------
+* http://developers.facebook.com/docs/reference/plugins/comments/
+* http://www.huffingtonpost.com/2011/08/04/mark-zuckerberg-worst-dressed-silicon-valley-gq_n_918439.html
+* http://www.engadget.com/2011/08/05/mapnificent-visualizes-public-transportation-travel-time-is-mor/
+
 Coming Soon
 --------------------------
 * Sensitivity settings 

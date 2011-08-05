@@ -7,7 +7,7 @@
 function filterComments() {
   console.info('cleansing Disqus');
   $("#disqus_thread").remove();
-  $("#comments").remove();
+  $("#comments, div.comments, section.comments").remove();
 
   $('iframe.comments').remove();
 
