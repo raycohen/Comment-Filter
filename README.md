@@ -5,7 +5,7 @@ A Chrome extension that removes comments from the Internet.
 
 Overview
 --------------------------
-A growing number of websites allow users to leave comments on their articles, videos, and other content.  While the intent may have initially been noble, to foster discussion and community, the results are in and they are pretty ugly.
+A growing number of websites allow users to leave comments on their articles, videos, and other content.  While the intent may have been born of a noble desire to foster discussion and community, the results are in and there is only one word to describe them: **ugly**.
 
 Comment-prone internet denizens have taken to abusing this system. Finding a thread of comments that is not festering with logical fallacies, incorrect information, oversimplified analysis of complex issues, misspellings, poor grammar, and just generally dumb shit is nearly impossible.  Each time an optimistic young browser (such as yourself) gets to that special part of the page below the actual content, groans, muttered swears, and a feeling of disappointment with the world are not far off. 
 
