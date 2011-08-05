@@ -15,7 +15,7 @@ Enter the comment filter.  A simple chrome extension that does its best to remov
 Features
 --------------------------
 
-* Detects and removes widely used comment plugins, including those created by Disqus and Facebook.
+* Detects and removes widely used comment plugins, including those created by Facebook, Disqus, IntenseDebate and Echo.
 * Attempts to identify and remove sections of the page likely to contain comments.
 
 Coming Soon
