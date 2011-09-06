@@ -15,6 +15,7 @@ References
 --------------------------
 * http://xkcd.com/481/
 * http://flowingdata.com/2011/08/05/flowchart-should-you-argue-on-the-internet/
+* http://www.hbo.com/real-time-with-bill-maher/episodes/0/223-episode/article/new-rules.html
 
 Features
 --------------------------
@@ -27,6 +28,7 @@ Try It Out
 * http://developers.facebook.com/docs/reference/plugins/comments/
 * http://www.huffingtonpost.com/2011/08/04/mark-zuckerberg-worst-dressed-silicon-valley-gq_n_918439.html
 * http://www.engadget.com/2011/08/05/mapnificent-visualizes-public-transportation-travel-time-is-mor/
+* http://www.youtube.com/watch?v=X9YMU0WeBwU&ob=av2e
 
 Coming Soon
 --------------------------
@@ -60,10 +62,10 @@ Navigate to Settings... Tools... Extensions.
 Click + on "Developer mode"
 Click "Load unpacked extensions..."
 Navigate to directory you installed Comment Filter and click Open.
-Chuckle to self as you reload this page and significant chunks of it suddenly disappear.
+You're Done... Visit a page with comments to try it out.
 </pre>
 
-3) Make the world a safer place.
+3) Browse the web with less pain.
 
 
 About

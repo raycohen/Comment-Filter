@@ -5,13 +5,11 @@
  */
 
 function filterComments() {
-  console.info('cleansing Disqus');
   $("#disqus_thread").remove();
-  $("#comments, div.comments, section.comments").remove();
+  $("#comments, div.comments, section.comments, #comments-view").remove();
 
   $('iframe.comments').remove();
-
-  console.info('cleansing Facebook');
+  
   $('iframe[src^="http://www.facebook.com/plugins/comments.php"]').remove();
   $('iframe[src^="https://www.facebook.com/plugins/comments.php"]').remove();  
   $(document.getElementsByTagName('fb:comments')).remove();
