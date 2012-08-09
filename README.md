@@ -14,6 +14,7 @@ Enter the comment filter.  A simple chrome extension that does its best to remov
 References
 --------------------------
 * http://xkcd.com/481/
+* http://www.smbc-comics.com/?id=2696
 * http://flowingdata.com/2011/08/05/flowchart-should-you-argue-on-the-internet/
 * http://www.hbo.com/real-time-with-bill-maher/episodes/0/223-episode/article/new-rules.html
 
@@ -29,11 +30,6 @@ Try It Out
 * http://www.huffingtonpost.com/2011/08/04/mark-zuckerberg-worst-dressed-silicon-valley-gq_n_918439.html
 * http://www.engadget.com/2011/08/05/mapnificent-visualizes-public-transportation-travel-time-is-mor/
 * http://www.youtube.com/watch?v=X9YMU0WeBwU&ob=av2e
-
-Coming Soon
---------------------------
-* Sensitivity settings 
-* White list for sites not to clean
 
 Installation (for Users)
 --------------------------
